@@ -1,2 +1,2 @@
-# Santander Code Girls 
-Módulos do Bootcamp Code Girls
+# Code Girls 
+Módulos do Bootcamp Santander Code Girls
